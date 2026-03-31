@@ -36,7 +36,6 @@ cd docbot
 ### 2. Install Dependencies
 
 ```bash
-cd docbot
 pip install -r requirements.txt
 ```
 
